@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickLook.Plugin.EpubViewer", "QuickLook.Plugin.EpubViewer.csproj", "{260C9E70-0582-471F-BFB5-022CFE7984C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickLook.Common", "QuickLook.Common\QuickLook.Common.csproj", "{85FDD6BA-871D-46C8-BD64-F6BB0CB5EA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260C9E70-0582-471F-BFB5-022CFE7984C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260C9E70-0582-471F-BFB5-022CFE7984C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260C9E70-0582-471F-BFB5-022CFE7984C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260C9E70-0582-471F-BFB5-022CFE7984C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85FDD6BA-871D-46C8-BD64-F6BB0CB5EA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FDD6BA-871D-46C8-BD64-F6BB0CB5EA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FDD6BA-871D-46C8-BD64-F6BB0CB5EA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FDD6BA-871D-46C8-BD64-F6BB0CB5EA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81C8031E-E712-455D-A4CF-1D19D40A28FA}
+	EndGlobalSection
+EndGlobal
